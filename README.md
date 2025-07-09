@@ -1,57 +1,43 @@
-# 👋 Hi, I'm Daksh Kumar!
-
-🎓 I'm a Computer Science major with a Minor in Mathematics at **San Francisco State University**, graduating in **December 2027**.  
-📍 Based in San Francisco, CA
+<h1 align="center">Hi there 👋, I'm Daksh Kumar</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | CS @ SFSU | Full-Stack & Backend Dev</h3>
 
 ---
 
-## 💡 About Me
-
-- 💻 Passionate about building practical and efficient software solutions.
-- 🌱 Currently diving deeper into **Flask**, **SQLAlchemy**, **Java**, and **Data Structures**.
-- 🚀 Aspiring Software Engineer | Open to internships and collaborations.
-- 🧠 Active member of **ACM**, **Data Science Society**, and **Cybersecurity Club** at SFSU.
+🎓 **Computer Science + Math Minor** at **San Francisco State University**  
+💡 Passionate about building practical software and solving real-world problems  
+🌱 Learning Flask | SQLAlchemy | Java | Data Structures  
+🔐 Member of ACM | Data Science Society | Cybersecurity Club  
 
 ---
 
-## 🔧 Tech Stack
+### 🛠️ Tech Stack
 
-- **Languages:** Python, Java, HTML/CSS, JavaScript (Basic)
-- **Frameworks & Tools:** Flask, SQLAlchemy, Bootstrap 5
-- **Dev Tools:** VS Code, Eclipse, PyCharm, GitHub, Linux CLI
-- **Soft Skills:** Communication | Leadership | Critical Thinking | Teamwork
-
----
-
-## 🛠️ Projects
-
-### 🧾 [FinDo – Personal Finance & Task Manager](https://github.com/Dakshkumar24/findo)
-Full-stack Flask app for tracking expenses and managing tasks. Features:
-- Secure user login/session management
-- Expense & budget tracking
-- Task management with a responsive UI
-- Built using Flask, SQLAlchemy, Bootstrap 5
-
-### ❌ [Tic Tac Toe – Java Game](https://github.com/Dakshkumar24/tictactoe)
-Console-based two-player game built with Java. Features:
-- Board rendering, input validation, win/draw detection
-- Practice of Java control structures and arrays
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-EE0000?style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📚 Involved In
+### 📊 GitHub Stats
 
-- **💻 ACM SFSU** – Weekly coding workshops and tech talks  
-- **📊 Data Science Society** – ML + Python workshops & data projects  
-- **🛡️ Cybersecurity Club** – CTFs, ethical hacking, and security basics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dakshkumar24&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshkumar24&layout=compact&theme=radical" width="48%"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+### 📫 Reach Me
 
-- 📧 Email: dkumar2@sfsu.edu  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 💼 [GitHub](https://github.com/Dakshkumar24)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+📬 dkumar2@sfsu.edu
 
 ---
 
