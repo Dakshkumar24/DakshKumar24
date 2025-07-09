@@ -36,7 +36,7 @@
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn]https://linkedin.com/in/daksh-kumar06
 📬 dkumar2@sfsu.edu
 
 ---
