@@ -25,18 +25,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dakshkumar24&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshkumar24&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ### 📫 Reach Me
 
-[![LinkedIn]https://linkedin.com/in/daksh-kumar06
+[![LinkedIn]https://linkedin.com/in/daksh-kumar06  
 📬 dkumar2@sfsu.edu
 
 ---
