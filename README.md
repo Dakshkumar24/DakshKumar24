@@ -27,8 +27,9 @@
 
 ### 📫 Reach Me
 
-[<img src="https://github.com/Dakshkumar24/2025SU-COMSC-076-203/blob/main/linkedin.png?raw=true" width="24"/>](https://linkedin.com/in/daksh-kumar06)  
-📬 dkumar2@sfsu.edu
+📫 Reach Me  
+🔗 [LinkedIn](https://linkedin.com/in/daksh-kumar06)  
+📧 dkumar2@sfsu.edu
 
 ---
 
