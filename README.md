@@ -5,8 +5,7 @@
 
 🎓 **B.S. Computer Science + Math Minor** at **San Francisco State University**  
 💡 Passionate about building scalable software and solving real-world problems  
-🌱 Currently learning **Data Structures, FastAPI, Next.js, Docker, and Machine Learning**  
-🔐 Active in **ACM | Data Science Society | Cybersecurity Club**  
+🔐 Active in **ACM | Data Science Society**  
 🏅 Dean’s List – College of Science & Engineering, SFSU  
 
 ---
@@ -50,8 +49,7 @@
 
 ### 📫 Connect With Me
 
-🔗 [LinkedIn](https://linkedin.com/in/daksh-kumar06)  
-💻 [GitHub](https://github.com/your-github-username)  
+🔗 [LinkedIn](https://linkedin.com/in/daksh-kumar06)   
 📧 dkumar2@sfsu.edu  
 
 ---
