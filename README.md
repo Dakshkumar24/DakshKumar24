@@ -8,32 +8,26 @@
 
 ---
 
-## 🧰 Technology Stack
-
-**Languages:**  
-Python, Java, HTML/CSS, JavaScript, SQL, R, PowerShell  
-
-**Tools & Platforms:**  
-VS Code, Eclipse, PyCharm, GitHub, Linux/Unix/CLI, Docker  
-
-**Frameworks & Libraries:**  
-Flask, Bootstrap 5, Tailwind CSS, React, FastAPI, Next.js, Express.js, Node.js  
-
-**Databases & Libraries:**  
-SQLAlchemy, Flask-Login, React Query, scikit-learn, Uvicorn  
-
-**Databases:**  
-PostgreSQL, MySQL, SQLAlchemy  
+<p align="center">
+Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; HTML/CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; SQL &nbsp;•&nbsp; R &nbsp;•&nbsp; PowerShell  
+<br>
+VS Code &nbsp;•&nbsp; Eclipse &nbsp;•&nbsp; PyCharm &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Linux/Unix/CLI &nbsp;•&nbsp; Docker  
+<br>
+Flask &nbsp;•&nbsp; Bootstrap 5 &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; React &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Express.js &nbsp;•&nbsp; Node.js  
+<br>
+SQLAlchemy &nbsp;•&nbsp; Flask-Login &nbsp;•&nbsp; React Query &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; Uvicorn  
+<br>
+PostgreSQL &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; SQLAlchemy
+</p>
 
 ---
 
-## 📫 Reach Out to Me
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/daksh-kumar06/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
+    LinkedIn
+  </a> 
+  &nbsp;|&nbsp; 
   <a href="mailto:dkumar2@sfsu.edu">
-    <img src="https://img.shields.io/badge/Email-dkumar2%40sfsu.edu-red" />
+    dkumar2@sfsu.edu
   </a>
 </p>
