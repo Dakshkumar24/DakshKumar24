@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  I'm passionate about solving real-world problems through code and building reliable, efficient software.  
-  I enjoy learning across full-stack development, algorithms, and systems programming.  
-  With experience in Python, Java, and web technologies, I'm eager to grow through collaborative, impactful projects and excited about opportunities to learn and contribute. 🚀
+  I’m passionate about software development and machine learning.  
+  I enjoy solving real-world problems using modern technologies and continuously learning new tools to create efficient and user-friendly solutions.  
+  I seek opportunities to learn, improve my skills, and grow as a developer. 🚀
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">Reach Me Out On</h2>
+<h2 align="center">Social</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-kumar06/">
