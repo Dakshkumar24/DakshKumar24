@@ -1,5 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Daksh Kumar</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | CS @ SFSU | Full-Stack & Backend Developer</h3>
+<h2 align="center">Hi there 👋, I'm Daksh Kumar</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=500&lines=Aspiring+Software+Engineer;Full-Stack+%26+Backend+Developer;CS+Student+@+SFSU" alt="Typing SVG" />
+</p>
+
 
 ---
 
