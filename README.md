@@ -8,7 +8,9 @@
 
 ---
 
-<p align="center">
+## Technology Stack  
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
@@ -28,7 +30,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
@@ -39,7 +41,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask--Login-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white" />
@@ -47,5 +49,20 @@
   <img src="https://img.shields.io/badge/Uvicorn-4B8BBE?logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badg
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## Reach Me Out On  
+
+<p>
+  <a href="https://www.linkedin.com/in/daksh-kumar06/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dkumar2@sfsu.edu">
+    <img src="https://img.shields.io/badge/Email-dkumar2%40sfsu.edu-red" />
+  </a>
+</p>
