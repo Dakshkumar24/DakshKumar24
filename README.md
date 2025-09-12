@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I am an eager problem solver, passionate about learning and tackling new challenges through creative solutions and coding algorithms. 🚀
+  I'm passionate about solving real-world problems through code and building reliable, efficient software.  
+  I enjoy learning across full-stack development, algorithms, and systems programming.  
+  With experience in Python, Java, and web technologies, I'm eager to grow through collaborative, impactful projects and excited about opportunities to learn and contribute. 🚀
 </p>
 
 ---
