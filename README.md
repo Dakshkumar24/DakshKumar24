@@ -39,14 +39,6 @@
 
 ---
 
-### 🌱 Involvement
-
-- **ACM @ SFSU** → LeetCode workshops, peer coding projects, and technical interview prep  
-- **Data Science Society** → ML workshops, AI ethics discussions, and cloud microservice explorations  
-- **Cybersecurity Club** → Exploring system security fundamentals and ethical hacking practices  
-
----
-
 ### 📫 Connect With Me
 
 🔗 [LinkedIn](https://linkedin.com/in/daksh-kumar06)   
