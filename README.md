@@ -1,11 +1,7 @@
 <h1 align="center">Hi there! I'm <a href="#">Daksh Kumar</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;CS+@+SFSU+%7C+Math+Minor;Full-Stack+%26+Backend+Developer;Builder+of+useful%2C+scalable+things" alt="Typing Intro" />
-</p>
-
-<p align="center">
-  Software engineering by ❤️ &nbsp;|&nbsp; Engineering solutions by design 🧩
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=CS+Student+@+SFSU;Full-Stack+%26+Backend+Developer;Learning+Software+Development+%26+Machine+Learning!" alt="Typing Intro" />
 </p>
 
 <p align="center">
@@ -14,7 +10,7 @@ Active in <b>ACM</b> and the <b>Data Science Society</b>; honored to be on the <
 </p>
 
 <p align="center">
-  🧠 Backend Systems & APIs &nbsp;•&nbsp; 📊 Data/ML basics &nbsp;•&nbsp; 🖥️ User Interfaces &nbsp;•&nbsp; 🧪 Learning by building
+  🧠 Backend Systems & APIs &nbsp;•&nbsp; 📊 Data/ML basics &nbsp;•&nbsp; 🖥️ User Interfaces
 </p>
 
 ---
@@ -64,11 +60,28 @@ Active in <b>ACM</b> and the <b>Data Science Society</b>; honored to be on the <
 
 ---
 
-👇
+## 💻 Featured Projects
+
+- **FinDoV2 (In Progress)** – Next.js + FastAPI + PostgreSQL + Redis + Docker; auth, tasks with recycle bin, expenses, and an ML microservice.
+  - Repo: `[link-coming-soon]`
+
+- **FinDo** – Full-stack personal finance & task manager (Flask, SQLAlchemy, Bootstrap 5); session-based auth, tasks + recycle bin, expenses.
+  - Repo: `[your FinDo repo link]` &nbsp;•&nbsp; Demo GIF: `![FinDo Demo](./assets/findo-demo.gif)`
+
+- **MindMaze** – Top-down puzzle game with an AI hint sidekick; Firebase global leaderboard.  
+  - Repo: `[your MindMaze repo link]`
+
+- **Stock Price Alert System** – Spring Boot app to subscribe to tickers and receive alerts via email/SMS when thresholds are crossed.  
+  - Repo: `[your Java/Spring repo link]`
+
+- **Tic Tac Toe (Java, OOP)** – Console game emphasizing clean class design and testing.  
+  - Repo: `[your TicTacToe repo link]`
+
+> Want more? Check out my pinned repos below 👇
 
 ---
 
-## 📫 Reach Me
+## 📫 Reach Me Out On
 
 <p>
   <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_HANDLE">
@@ -76,9 +89,6 @@ Active in <b>ACM</b> and the <b>Data Science Society</b>; honored to be on the <
   </a>
   <a href="mailto:dkumar2@sfsu.edu">
     <img src="https://img.shields.io/badge/Email-dkumar2%40sfsu.edu-red" />
-  </a>
-  <a href="https://REPLACE_WITH_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
 </p>
 
