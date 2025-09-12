@@ -9,25 +9,43 @@
 ---
 
 <p align="center">
-Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; HTML/CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; SQL &nbsp;•&nbsp; R &nbsp;•&nbsp; PowerShell  
-<br>
-VS Code &nbsp;•&nbsp; Eclipse &nbsp;•&nbsp; PyCharm &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Linux/Unix/CLI &nbsp;•&nbsp; Docker  
-<br>
-Flask &nbsp;•&nbsp; Bootstrap 5 &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; React &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Express.js &nbsp;•&nbsp; Node.js  
-<br>
-SQLAlchemy &nbsp;•&nbsp; Flask-Login &nbsp;•&nbsp; React Query &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; Uvicorn  
-<br>
-PostgreSQL &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; SQLAlchemy
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
 </p>
-
----
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daksh-kumar06/">
-    LinkedIn
-  </a> 
-  &nbsp;|&nbsp; 
-  <a href="mailto:dkumar2@sfsu.edu">
-    dkumar2@sfsu.edu
-  </a>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%2FUnix-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask--Login-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-4B8BBE?logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badg
