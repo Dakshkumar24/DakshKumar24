@@ -1,11 +1,26 @@
 <div align="center">
 
-<a href="https://octodex.github.com/ironcat"><img src="https://octodex.github.com/images/ironcat.jpg" width="200" alt="IronCat" /></a>
-
-# 👋 Hey, I'm Daksh
-
-🚀 AI Product Manager Intern @ **CREAO AI** · 🎓 CS + Math @ **SFSU**
-🤖 Building AI products & agent systems — from idea to shipped
+<table>
+<tr>
+<td width="210" align="center">
+<a href="https://octodex.github.com/ironcat"><img src="https://octodex.github.com/images/ironcat.jpg" width="190" alt="IronCat"/></a>
+</td>
+<td>
+<pre>
+╔════════════════════════════════════════════╗
+║        J.A.R.V.I.S. // SYSTEM ONLINE       ║
+╠════════════════════════════════════════════╣
+║ > USER.......... DAKSH KUMAR               ║
+║ > ROLE.......... AI PM INTERN @ CREAO AI   ║
+║ > EDUCATION..... CS + MATH @ SFSU          ║
+║ > MISSION....... BUILD AI PRODUCTS         ║
+║                  & AGENT SYSTEMS           ║
+║ > STATUS........ ONLINE                    ║
+╚════════════════════════════════════════════╝
+</pre>
+</td>
+</tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-kumar06/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/dakshkumar19860)
